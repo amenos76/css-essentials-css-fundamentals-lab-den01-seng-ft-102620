@@ -33,9 +33,9 @@ img {
   margin: auto;
 }
 
-#details {
+#details div {
   display: block;
   float: left;
-  
+
   background-color: red;
 }
