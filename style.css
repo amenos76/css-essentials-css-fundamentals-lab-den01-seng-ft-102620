@@ -36,6 +36,7 @@ img {
 #details div {
   display: block;
   float: left;
-  margin: 200px;
+  margin: 100
+px;
   background-color: red;
 }
