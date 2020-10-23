@@ -35,5 +35,7 @@ img {
 
 #details {
   display: block;
+  float: left;
+  
   background-color: red;
 }
