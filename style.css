@@ -12,6 +12,11 @@ nav {
   text-align: center;
 }
 
+img {
+  margin: auto;
+  display: block;
+}
+
 #featured-property p {
   width: 800px;
   text-align: center;
