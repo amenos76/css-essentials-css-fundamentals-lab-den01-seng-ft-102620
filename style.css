@@ -36,4 +36,5 @@ img {
 #details {
   display: block;
   float: left;
+  width: 200px;
 }
