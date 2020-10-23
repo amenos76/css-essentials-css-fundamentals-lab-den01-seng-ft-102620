@@ -37,5 +37,9 @@ img {
   display: block;
   float: left;
   margin: 10px;
+  
+}
+
+#details {
   background-color: red;
 }
