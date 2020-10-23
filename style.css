@@ -33,13 +33,13 @@ img {
   margin: auto;
 }
 
+#details {
+  background-color: red;
+}
+
 #details div {
   display: block;
   float: left;
   margin: 10px;
 
-}
-
-#details {
-  background-color: red;
 }
